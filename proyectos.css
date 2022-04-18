@@ -1,0 +1,30 @@
+.proyectos{
+    height: 650px;
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+}
+.proyectos__titulo{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 5%;
+    font-weight: bold;
+}
+.proyectos__div{
+    display: flex;
+    justify-content:center;
+    margin-top: 2rem;
+
+}
+.proyectos__containerimg{
+    text-align: center;
+}
+.proyectos__img{
+    width: 500px;
+    height: 350px;
+
+}
+.proyectos__texto{
+    line-height: 3rem;
+    font-size: 2rem;
+
+    
+}

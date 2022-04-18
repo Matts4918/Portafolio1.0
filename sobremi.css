@@ -1,0 +1,27 @@
+.sobremi{
+       height: 650px;  
+       display: flex;
+       background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+} 
+.sobre__mi__imagen{
+    display: flex;
+    height: 300px;
+    width: 450px;
+    margin: 150px 0 0 100px;
+}
+.sobremi__tamaño{
+    height: 400px;
+    width: 600px;
+    margin: 100px ;
+    margin-top: 2rem;
+}
+.sobre__mi__titulo{
+    font-size: 3rem;
+    text-align: center;
+}
+.sobre__mi__texto{
+    font-size: 1.8rem;
+    width: 600px;
+    margin: 2rem;
+
+}

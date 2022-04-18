@@ -1,0 +1,123 @@
+@media (max-width: 768px){
+    .header{
+        flex-direction: column;
+        margin: auto;
+    }
+    .head__lista{
+        flex-direction: column;
+        margin: auto;
+        margin: 15px;
+        font-size: 1.5rem;
+        text-decoration-line: underline;
+    }
+    .head__enlace{
+        padding: 0.5rem 0;
+    }
+    .head__navegacion{
+        margin: auto;
+    }
+
+    .introduccion__conteiner{
+        flex-wrap: wrap;
+    }
+    .introduccion__divicons{
+        display: contents;
+    }
+    .introduccion__titulo {
+       
+        font-size: 1.2rem;
+    }
+    .introduccion__iconos{
+        margin-top: 20%;
+    }
+    .sobremi{
+        padding: 0;
+        margin: 0;
+        width: auto;
+    }
+    .sobre__mi__imagen{
+        display:none;
+    }
+    .sobremi__tamaño{
+        padding: 0;
+        margin: 0;
+    }
+    .sobre__mi__titulo{
+        margin: 0;
+        padding: 0;
+        margin-top: 15%;
+        width: 350px;
+    }
+    .sobre__mi__texto{
+        margin: auto;
+        padding: 0;
+        width: auto;
+        margin-top: 15%;
+        max-width: 350px;
+        text-align: justify;
+        font-size: x-large;
+    }
+    .skills__hobbies{
+        height: 690px;
+    }
+    .skills__div{
+        flex-wrap: wrap;
+    }
+    .skills__divimg{
+         width: auto;
+         height: auto;
+    }
+    .skills__img{
+        height: 100px;
+        width: 122px;
+    }
+    .formacionAcademica{
+        height: 800px;
+    }
+    .formacion__div{
+        margin: 0;
+        flex-direction: column;
+        margin-top: 2rem;
+    }
+    .formacion__containerimg{
+        width: auto;
+    }
+    .formacion__img{
+        width: 150px;
+        height: 150px;
+    }
+    .formacion__texto{
+        font-weight: 900;
+    }
+    .proyectos{
+        height: 580px;
+    }
+    .proyectos__containerimg{
+        margin-top: 5rem;
+    }
+    .proyectos__img{
+        width: 250px;
+        height: 250px;
+    }
+    .contacto{
+        height: 800px;
+    }
+    .Contacto__foto{
+        display: none;
+    }
+    .contacto__formulario{
+        padding: 0;
+        margin-left: 10px;
+    }
+    .contacto__cajadetexto{
+        width: 95%;
+    }
+    .Footer{
+        padding: 26px;
+    }
+    .copyright{
+        font-weight: bold;
+    }
+}
+ 
+
