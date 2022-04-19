@@ -1,5 +1,5 @@
 .contacto{
-    height: 650px;
+    height: auto;
     background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 .contacto__titulo{
